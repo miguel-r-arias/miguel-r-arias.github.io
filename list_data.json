@@ -1,22 +1,22 @@
 {
 	"Experience at a Glance": [
 		{
-			"Role": "Lost In Translation!!",
-			"Company": "Sofia Coppola",
+			"Role": "Adjunct Lecturer",
+			"Company": "Stanford University",
 			"Description": "R",
-			"Date": "2003"
+			"Date": "2021-2022"
 		},
 		{
-			"Role": "Casino Royale",
-			"Company": "Martin Campbell",
+			"Role": "Senior Innovation Project Lead",
+			"Company": "Jump Associates",
 			"Description": "PG-13",
-			"Date": "2006"
+			"Date": "2020-2021"
 		},
 		{
-			"Role": "The Dark Knight",
-			"Company": "Christopher Nolan",
+			"Role": "Innovation Project Lead & Strategist",
+			"Company": "Jump Associates",
 			"Description": "PG-13",
-			"Date": "2008"
+			"Date": "2018-2020"
 		}
 	]
 }
