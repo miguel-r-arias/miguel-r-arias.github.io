@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"Experience at a Glance": [
 		{
-			"Title": "The homework starter code includes a sample HTML file called “index.html”.  This file is a template for your home page.  For now, it is filled with example information.  Edit the file and replace the example student name, and the title.  Add a paragraph with a brief biography, using the correct HTML tags for a paragraph. Feel free to add other content if you like. You can see the changes on your local computer by simply double-clicking on the index.html file.  It should load in your web browser.  When your changes are done, upload the modified file to the github repository and visit <YOURUSERNAME>.github.io and see your changes.",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Role": "Adjunct Lecturer",
+			"Company": "Stanford University",
+			"Description": "Taught 20+ students how to analyze user needs, uncover key findings, craft actionable insights, create frameworks, and develop products via the Design Process 2x2 Framework",
+			"Date": "2021-2022"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Role": "Senior Innovation Project Lead",
+			"Company": "Jump Associates",
+			"Description": "Managed $250k-$1M strategic research projects for Fortune 500 firms & international conglomerates across various industries",
+			"Date": "2020-2021"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Role": "Innovation Project Lead & Strategist",
+			"Company": "Jump Associates",
+			"Description": "Helped a national retailer redefine their membership program for 20M+ members, 	& partnered with a global entertainment company’s ELT to define a unifying Purpose & Values for their 12+ subsidiaries",
+			"Year": "2018-2020"
 		}
 	]
 }
