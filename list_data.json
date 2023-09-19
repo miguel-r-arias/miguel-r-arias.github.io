@@ -1,22 +1,22 @@
 {
-	"Experience at a Glance": [
+	"movies": [
 		{
-			"Role": "Adjunct Lecturer",
-			"Company": "Stanford University",
-			"Description": "Taught 20+ students how to analyze user needs, uncover key findings, craft actionable insights, create frameworks, and develop products via the Design Process 2x2 Framework",
-			"Date": "2021-2022"
+			"Title": "Lost In Translation",
+			"Director": "Sofia Coppola",
+			"Rating": "R",
+			"Year": "2003"
 		},
 		{
-			"Role": "Senior Innovation Project Lead",
-			"Company": "Jump Associates",
-			"Description": "Managed $250k-$1M strategic research projects for Fortune 500 firms & international conglomerates across various industries",
-			"Date": "2020-2021"
+			"Title": "Casino Royale",
+			"Director": "Martin Campbell",
+			"Rating": "PG-13",
+			"Year": "2006"
 		},
 		{
-			"Role": "Innovation Project Lead & Strategist",
-			"Company": "Jump Associates",
-			"Description": "Helped a national retailer redefine their membership program for 20M+ members, 	& partnered with a global entertainment company’s ELT to define a unifying Purpose & Values for their 12+ subsidiaries",
-			"Date": "2018-2020"
+			"Title": "The Dark Knight",
+			"Director": "Christopher Nolan",
+			"Rating": "PG-13",
+			"Year": "2008"
 		}
 	]
-} 
+}
