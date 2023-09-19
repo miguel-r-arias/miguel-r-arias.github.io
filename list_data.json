@@ -1,7 +1,7 @@
 {
 	"movies": [
 		{
-			"Title": "Lost In Translation",
+			"Title": "The homework starter code includes a sample HTML file called “index.html”.  This file is a template for your home page.  For now, it is filled with example information.  Edit the file and replace the example student name, and the title.  Add a paragraph with a brief biography, using the correct HTML tags for a paragraph. Feel free to add other content if you like. You can see the changes on your local computer by simply double-clicking on the index.html file.  It should load in your web browser.  When your changes are done, upload the modified file to the github repository and visit <YOURUSERNAME>.github.io and see your changes.",
 			"Director": "Sofia Coppola",
 			"Rating": "R",
 			"Year": "2003"
